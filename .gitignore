@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MathGame/MathGame.Core/bin/Debug/net8.0
+/MathGame/MathGame.Core/obj
+/MathGame/MathGame.Domain/bin/Debug/net8.0
+/MathGame/MathGame.Domain/obj/Debug/net8.0
+/MathGame/MathGame.Domain/obj
+/MathGame/MathGame.Infrastructure/bin/Debug/net8.0
+/MathGame/MathGame.Infrastructure/obj
+/MathGame/MathGame.API/bin/Debug/net8.0
+/MathGame/MathGame.API/obj/Debug/net8.0
+/MathGame/MathGame.API/obj
